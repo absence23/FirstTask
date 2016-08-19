@@ -1,0 +1,7 @@
+package by.epam.first.entity;
+
+import java.io.Serializable;
+
+public class Entity implements Serializable {
+
+}
